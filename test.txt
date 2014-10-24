@@ -1,0 +1,1 @@
+test file to test the encode of commit log of git.
