@@ -1,0 +1,2 @@
+add to test the global setting in git commitlog encode`
+test file
